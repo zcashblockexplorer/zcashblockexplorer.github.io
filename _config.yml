@@ -1,10 +1,10 @@
 # Site specific settings
-title: "Title to this website"
-name: "Website name"
-keywords: "Key, words, about, this, website"
+title: "zcashblockexplorer.com"
+name: "Zcash Block Explorer"
+keywords: "zcash, block explorer, zec"
 baseurl: "/darcli"
-url: "http://website.com"
-description: "Website description"
+url: "https://zcashblockexplorer.com"
+description: "Defunct Zcash Block Explorer"
 cover: "/assets/img/cover.svg"
 fanpage_id: ""
 
@@ -15,12 +15,10 @@ ssl: false # It will redirect to https
 
 # Media
 # Just the shortname:
-# facebook: lampiaosec # Rigth
-# facebook: facebook.com/lampiaosec # Wrong
-disqus: test
-twitter: 
+disqus: 
+twitter: zcashexplorer
 facebook: 
-github: 
+github: nighthawk-apps
 google:
 
 # Build settings
