@@ -16,7 +16,7 @@ After 3 years, we made the difficult decision to shut down the widely used Zcash
 {% endfor %}
 </ul>
 
-## $ cat tools.txt
+## $ cat source.txt
 {:id="tools"}
 
 <ul>
