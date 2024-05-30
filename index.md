@@ -39,6 +39,3 @@ After 3 years, we made the difficult decision to shut down ZcashBlockExplorer.co
 <li><a href="{{ tool.link }}">{{ tool.title }}</a> - {{ tool.description }}</li>
 {% endfor %}
 </ul>
-
-{% endfor %}
-</ul>
