@@ -2,12 +2,12 @@
 layout: default
 ---
 
-# $ cat status.txt
+## $ cat status.txt
 {:id="about"}
 
-After 3 years, we made the difficult decision to shut down ZcashBlockExplorer.com on June 1st, 2024 due to lack of funding. We are deeply grateful for the journey we've shared with you all. 
+After 3 years, we made the difficult decision to shut down the widely used ZcashBlockExplorer.com on June 1st, 2024 due to lack of support & funding. We are deeply grateful for the journey we've shared with you all. 
 
-# $ cat documentation.txt
+## $ cat documentation.txt
 {:id="projects"}
 
 <ul>
@@ -16,7 +16,7 @@ After 3 years, we made the difficult decision to shut down ZcashBlockExplorer.co
 {% endfor %}
 </ul>
 
-# $ cat tools.txt
+## $ cat tools.txt
 {:id="tools"}
 
 <ul>
