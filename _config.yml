@@ -2,7 +2,7 @@
 title: "zcashblockexplorer.com"
 name: "Zcash Block Explorer"
 keywords: "zcash, block explorer, zec"
-baseurl: "/darcli"
+baseurl: "/"
 url: "https://zcashblockexplorer.com"
 description: "Defunct Zcash Block Explorer"
 cover: "/assets/img/cover.svg"

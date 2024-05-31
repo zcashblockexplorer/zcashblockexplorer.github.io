@@ -5,7 +5,7 @@ layout: default
 ### $ cat status.txt
 {:id="about"}
 
-After 3 years, we made the difficult decision to shut down the widely used ZcashBlockExplorer.com on June 1st, 2024 due to lack of support & funding. We are deeply grateful for the journey we've shared with you all. 
+After 3 years, we made the difficult decision to shut down the widely used ZcashBlockExplorer.com on May 31st, 2024 due to lack of support & funding. We are deeply grateful for the journey we've shared with you all. 
 
 ### $ cat documentation.txt
 {:id="projects"}
